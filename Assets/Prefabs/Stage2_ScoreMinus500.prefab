@@ -264,7 +264,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::chadsadaporn_babpa.Exam.InteractableItem
   kind: 3
-  sfx: {fileID: 0}
+  sfx: {fileID: 8300000, guid: a79538c844590f54bbacca70b9988ab5, type: 3}
   promptUI: {fileID: 6239492884801370255}
 --- !u!1 &6239492884801370255
 GameObject:
