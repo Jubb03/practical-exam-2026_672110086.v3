@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 97a38a33eed9f9548a204313b778ddea
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 79208f2ef4b94ed41bfbb9e5e913ca5a
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: ad117c23a9d8e6d448a1b43759b8d9a5
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 0d5be32b0465984419b4d557e8b2ee30
+  - enabled: 1
+    path: Assets/Scenes/Stage1.unity
+    guid: 70002e4734f201f4d84a912db00855e8
+  - enabled: 1
+    path: Assets/Scenes/Stage2.unity
+    guid: f4283504342b0e84d86c8990e4acf395
+  - enabled: 1
+    path: Assets/Scenes/StageSelection.unity
+    guid: fd0a0ad9ef2cb024694c4a0d6c044081
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 2dd7ba5152aad71499d308340cd51f4b
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
